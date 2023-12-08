@@ -30,6 +30,9 @@
 
     --margin-block: 10rem;
 }
+html > * {
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
 *,
 *::after,
 *::before {
