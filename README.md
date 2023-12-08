@@ -22,7 +22,7 @@ I want to build this website with as few media queries as possible, so that the 
 
 ### Links
 
--   Live Site URL: [URL](https://bomanstatic.github.io/four-card-feature-section/)
+-   Live Site URL: [URL](https://bomanstatic.github.io/Tian-landing-page/)
 
 ## My process
 
